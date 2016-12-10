@@ -1,0 +1,6 @@
+{
+	"name": "Apollo's Symphony",
+	"description": "A music sheet site.",
+	"repository": "https://github.com/kidcampos/apollossymphony.git",
+	"image": "heroku/nodejs"
+}
